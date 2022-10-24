@@ -1,2 +1,2 @@
 def divisiblesum():
-    pass
+    return 2+3
